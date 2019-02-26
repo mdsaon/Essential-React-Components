@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Saidur Rahman",
+    "email": "swesaon@gmail.com",
+    "location": "Helsinki"
+  },
+  {
+    "name": "Mr.Kane",
+    "email": "swesaon@gmail.com",
+    "location": "Lappeenranta"
+  },
+  {
+    "name": "Mr. Hen",
+    "email": "swesaon@gmail.com",
+    "location": "Turku"
+  },
+  {
+    "name": "Mr. Kari",
+    "email": "swesaon@gmail.com",
+    "location": "Vantaa"
+  },
+  {
+    "name": "Mr. John Doe",
+    "email": "swesaon@gmail.com",
+    "location": "Espoo"
+  }
+]
