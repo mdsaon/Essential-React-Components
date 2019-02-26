@@ -3,6 +3,7 @@ import ToggleComponent from './components/ToggleComponent/index';
 import StyledComponent from './components/StyledComponentExample';
 import HigherOrderComponentExample from './components/HigherOrderComponentExample';
 import Items from './components/HigherOrderComponentExample/Items';
+import ChartsComponent from './components/ChartsComponent';
 
 class App extends Component {
   render() {
@@ -12,6 +13,7 @@ class App extends Component {
         <StyledComponent />
         <HigherOrderComponentExample />
         <Items />
+        <ChartsComponent/>
       </div>
     );
   }
