@@ -4,6 +4,7 @@ import StyledComponent from './components/StyledComponentExample';
 import HigherOrderComponentExample from './components/HigherOrderComponentExample';
 import Items from './components/HigherOrderComponentExample/Items';
 import ChartsComponent from './components/ChartsComponent';
+import ButtonTextChange from './components/ButtonTextChange';
 
 class App extends Component {
   render() {
@@ -14,6 +15,7 @@ class App extends Component {
         <HigherOrderComponentExample />
         <Items />
         <ChartsComponent/>
+        <ButtonTextChange />
       </div>
     );
   }
