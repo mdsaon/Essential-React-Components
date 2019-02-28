@@ -5,6 +5,7 @@ import HigherOrderComponentExample from './components/HigherOrderComponentExampl
 import Items from './components/HigherOrderComponentExample/Items';
 import ChartsComponent from './components/ChartsComponent';
 import ButtonTextChange from './components/ButtonTextChange';
+import DataGridExample from './components/DataGridExample';
 
 class App extends Component {
   render() {
@@ -16,6 +17,7 @@ class App extends Component {
         <Items />
         <ChartsComponent/>
         <ButtonTextChange />
+        <DataGridExample />
       </div>
     );
   }
